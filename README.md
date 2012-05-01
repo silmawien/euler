@@ -1,4 +1,4 @@
 euler
 =====
 
-project euler solutions in pie-thon
+Project euler solutions in pie-thon.
